@@ -8,6 +8,10 @@ Welcome to Top Level RTD Container's documentation!
 
 Contents:
 
+`Python Minecraft Documentation`_
+
+.. _`Python Minecraft Documentation`: http://mikemccllstr.readthedocs.org/projects/mikemccllstr-python-minecraft
+
 .. toctree::
    :maxdepth: 2
 
